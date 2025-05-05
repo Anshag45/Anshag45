@@ -1,71 +1,80 @@
+
 <h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
-<h3 align="center">Flutter Developer | Machine Learning Enthusiast | Clean UI Advocate</h3>
+<h3 align="center">Flutter Developer | ML Enthusiast | C++ Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:agarwalansh561@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/anshag45"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/Anshag45"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white" /></a>
+  <img src="https://holopin.io/api/user/Anshag45/badge" width="90%" />
 </p>
 
 ---
 
-### 🧑‍🎓 Education
-- **B.Tech, Computer Science & Engineering**  
-  *VIT Bhopal University (2022 – 2026)*  
+### 🎓 Education
+- **VIT Bhopal University, Bhopal**  
+  B.Tech in Computer Science & Engineering (2022 - 2026)  
   CGPA: 8.96/10
+
+- **PMS Public School, U.P.**  
+  - Intermediate XII: 70%  
+  - High School X: 95.2%
 
 ---
 
-### 🛠️ Skills & Tools
+### 💻 Technical Skills
 
-**Languages:** `C++` `Java` `Python` `JavaScript` `Dart`  
-**Mobile Development:** `Flutter`  
-**Data Science / ML:** `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SciPy`  
-**Database:** `SQL`  
-**Analytics:** `Tableau`
+- **Languages:** C++, Java, Python, JavaScript, Dart  
+- **Machine Learning & Data Science:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- **Database:** SQL  
+- **Android Development:** Flutter, Dart  
+- **Data Visualization & Analytics:** Tableau
 
 ---
 
 ### 🚀 Projects
 
-#### 🌿 Plant Disease Detection System (Deep Learning)
-- 🧠 Built using **CNN**, **Python**, and **TensorFlow**
-- ☁️ Deployed using **GCP** for real-time classification of plant leaf diseases
-- 👨‍👩‍👧‍👦 Team project of 5
+- **🌱 Plant Disease Detection System Using Deep Learning**  
+  Detects and classifies plant diseases using CNN and Python to help monitor plant health.  
+  *Technologies:* CNN, Python, TensorFlow, GCP  
+  *Team Project:* ✅
 
-#### 💧 Water Quality Analysis Dashboard
-- 📈 Built an advanced system for analyzing water quality trends using **Python**, **ML**, and **Tableau**
-- 🌐 Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ansh.agarwal6664/viz/WaterQualityAnalysis_1738513490590/Dashboard1?publish=yes)
+- **💧 Water Quality Analysis System using ML and Tableau**  
+  Uses ML and forecasting to analyze water quality across 20+ states. Real-time dashboard built with Tableau.  
+  *Technologies:* Time Series Forecasting, Python, TensorFlow, Scikit-learn, Pandas, NumPy, Tableau  
+  🔗 [Live Dashboard](https://public.tableau.com/app/profile/ansh.agarwal6664/viz/WaterQualityAnalysis_1738513490590/Dashboard1?publish=yes)
 
-#### 🏡 Smart Home Animated App (Flutter)
-- 🌟 Used custom transitions, parallax effects & smooth animated UI
-- 🔗 [GitHub Repo](https://github.com/Anshag45/Smart-Home-Animated-App-using-Flutter)
+- **🏠 Smart-Home-Animated-Application using Dart**  
+  Front-end animated smart-home app with parallax navigation using Flutter.  
+  *Role:* FrontEnd Developer  
+  🔗 [GitHub Repo](https://github.com/Anshag45/Smart-Home-Animated-App-using-Flutter)
 
 ---
 
 ### 📜 Certifications
-- **Google**: *The Bits and Bytes of Computer Networking* (92.5%)
-- **NPTEL**: *Cloud Computing* (Top 2%, Grade: 87%)
+
+- **Google:** The Bits and Bytes of Computer Networking — *92.5%*  
+- **NPTEL:** Cloud Computing — *87%* (Top 2%, Silver Medal)
 
 ---
 
 ### 🏆 Achievements
-- Solved **250+ DSA problems** on platforms like LeetCode, GFG, InterviewBit
-- ⭐ **5⭐ in C++ on HackerRank**
+
+- Solved over **250+** DSA problems on Leetcode, GFG, InterviewBit  
+- ⭐ 5-Star Coder on HackerRank in C++
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=github_dark" alt="Ansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧭 Let's Connect!
+### 📫 Connect with Me!
 
-Feel free to reach out or collaborate on cool projects.  
-I'm always open to learning, contributing, and building awesome tech together!
-
+<p>
+  <a href="mailto:agarwalansh561@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anshag45"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Anshag45"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
