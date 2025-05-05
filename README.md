@@ -2,7 +2,9 @@
 <h3 align="center">Flutter Developer | ML Enthusiast | C++ Problem Solver</h3>
 
 <p align="center">
-[![An image of @anshag45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshag45)](https://holopin.io/@anshag45)
+  <a href="https://holopin.io/@anshag45">
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" />
+  </a>
 </p>
 
 ---
