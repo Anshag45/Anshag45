@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="500"/>
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="600"/>
   </a>
 </p>
 
@@ -12,15 +12,14 @@
 
 ## 🌟 **About Me**
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
-```text
+
 💻 Full-Stack Developer | ML Engineer | Problem Solver
 🎓 CS @ VIT Bhopal (CGPA: 8.96/10) 
-🏆 250+ LeetCode | Top 24% Contest Rating
+🏆 250+ LeetCode 
 📱 Flutter Expert | AI/ML Enthusiast
-```
 
 ---
 
@@ -85,7 +84,7 @@
 - Modular architecture for scalability  
 
 ### 2. 💧 **Aqua Pulse – Water Quality Dashboard**  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/Water-Quality-Monitoring-Dashboard)  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/Aqua-Pulse)  
 📊 ML-powered water quality tracking system  
 🔧 **Tech**: `Python` `ARIMA` `Tableau` `Firebase` `REST APIs`  
 📌 **Features**:  
@@ -94,7 +93,7 @@
 - Interactive Tableau visualizations  
 
 ### 3. 🧠 **GENAI MCQ Generator**  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/MCQ-Generator-App)  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/GENAI_Project-Advanced-MCQ-Generator)  
 🤖 Automated quiz generation from web content  
 🔧 **Tech**: `OpenAI GPT` `Flask` `MongoDB` `SpaCy NLP`  
 📌 **Features**:  
@@ -158,5 +157,3 @@
 ```
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshag45&theme=react-dark&hide_border=true)
-```
