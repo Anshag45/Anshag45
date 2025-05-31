@@ -1,89 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
-<h3 align="center">Flutter Developer | ML & Data Enthusiast | C++ Problem Solver</h3>
-<p align="center">
-  <img src="https://github.com/Anshag45/Anshag45/blob/main/assets/banner.gif" width="800"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Agarwal;Flutter+Developer;ML+Enthusiast;DSA+Solver" alt="Animated Typing" />
+</h1>
+
+<h3 align="center">Building digital solutions with code and creativity</h3>
+
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" />
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="400"/>
   </a>
 </p>
 
 ---
 
-### 🎓 Education
+## 🛠️ Tech Stack
 
-- **VIT Bhopal University, Bhopal**  
-  *B.Tech in Computer Science (Sept 2022 – June 2026)*  
-  **CGPA:** 8.96/10
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- **Aryans International School, Moradabad**  
-  *12th Standard (2020 – 2021)*  
-  **Percentage:** 70%
+### Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-- **PMS Public School, Moradabad**  
-  *10th Standard (2018 – 2019)*  
-  **Percentage:** 95.2%
-
----
-
-### 💻 Technologies & Skills
-
-- **Languages:** C++, Java, Python, JavaScript, TypeScript, Dart  
-- **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js, Tailwind CSS  
-- **ML & Data Science:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy  
-- **Database:** SQL, MongoDB  
-- **Mobile Development:** Flutter, Dart  
-- **Visualization & Analytics:** Tableau  
-- **Others:** Git, REST APIs, ARIMA, SpaCy, BeautifulSoup, pdfkit
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 ---
 
-### 🚀 Projects
+## 📊 LeetCode Warrior
 
-- **🏠 Smart Home Animated App** [[GitHub]](https://github.com/Anshag45/Smart-Home-Animated-App-using-Flutter)  
-  Flutter-based smart home control app simulating real-time IoT device management with advanced animations and modular architecture.  
-  *Tech:* Flutter, Dart, Git, Material Design, Android Studio
+<div align="center">
 
-- **💧 Aqua Pulse – Water Quality Monitoring Dashboard** [[GitHub]](https://github.com/Anshag45/Water-Quality-Monitoring-Dashboard)  
-  Dashboard for tracking and forecasting water quality across 44+ stations using ML models and Tableau visualizations.  
-  *Tech:* Python, ARIMA, Firebase, REST APIs, Tableau, Plotly, Chart.js
+| **Metric**       | **Value**                |
+|------------------|--------------------------|
+| Total Solved     | 250+ Problems           |
+| Contest Rating   | 1,527 (Top 24%)         |
+| Best Rank        | 3,045 (Top 10%)         |
+| Streak           | 7 Days 🔥               |
 
-- **🧠 Advanced MCQ Generator Using GENAI** [[GitHub]](https://github.com/Anshag45/MCQ-Generator-App)  
-  Full-stack app that uses OpenAI GPT and NLP for auto-generating MCQs from web articles, with hint/explanation support.  
-  *Tech:* Python, Flask, MongoDB, OpenAI API, JWT, SpaCy, BeautifulSoup, pdfkit
+```text
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️ 100%
+LeetCode Stats
 
----
+</div>
+🚀 Featured Projects
+1. Smart Home Animated App
+GitHub
+Flutter app with advanced animations for IoT device control
 
-### 📜 Certifications
+Tech: Flutter Dart Material Design Android Studio
 
-- **GEN AI Using IBM Watsonx, IBM** — *April 2025* [[Certificate]](https://www.credly.com)  
-- **Full Stack Developer (MERN), SmartBridge & MongoDB** — *Hands-on Projects* [[Certificate]](https://www.credly.com)  
-- **The Bits and Bytes of Networking**, Google — *Scored 93.5%* [[Certificate]](https://www.coursera.org/account/accomplishments)  
-- **Cloud Computing**, NPTEL — *Top 2%, Silver Medal, Score: 87%*
+2. Aqua Pulse - Water Quality Dashboard
+GitHub
+ML-powered water quality monitoring system
 
----
+Tech: Python ARIMA Tableau Firebase
 
-### 🏆 Achievements
+3. GENAI MCQ Generator
+GitHub
+Automated MCQ generation from web articles
 
-- Solved **250+ DSA problems** on Leetcode and other platforms [[LeetCode Profile]](https://leetcode.com/u/agarwalansh651/)  
-- ⭐ **5-Star Coder** in C++ on HackerRank
+Tech: OpenAI API Flask MongoDB SpaCy
 
----
+📈 GitHub Stats
+<div align="center">
+Ansh's GitHub Stats
 
-### 📊 GitHub Stats
+Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight" />
-</p>
+GitHub Streak
 
----
-
-### 📫 Connect with Me
-
-<p>
-  <a href="mailto:agarwalansh651@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anshag45"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Anshag45"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</div>
+🌐 Let's Connect
+<p align="center"> <a href="mailto:agarwalansh651@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/anshag45"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/agarwalansh651/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://github.com/Anshag45"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Anshag45&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/> </p> ```
