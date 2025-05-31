@@ -15,18 +15,17 @@
 </p>
 
 <p>
-💻 Full-Stack Developer | ML Engineer | Problem Solver
-🎓 CS @ VIT Bhopal (CGPA: 8.96/10) 
-🏆 250+ LeetCode | Top 24% Contest Rating
-📱 Flutter Expert | AI/ML Enthusiast
+💻 **Full-Stack Developer** | **ML Engineer** | **Problem Solver**  
+🎓 Computer Science @ VIT Bhopal (**CGPA: 8.96/10**)  
+🏆 **250+ LeetCode** | **Top 24%** Contest Rating  
+📱 **Flutter Expert** | **AI/ML Enthusiast**
 <p>
----
 
 ## 🛠 **Tech Stack**
 
 ### 🗣️ **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="200"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -153,6 +152,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anshag45&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
-```
+
 
 
