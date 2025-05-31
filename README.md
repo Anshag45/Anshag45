@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
 <h3 align="center">Flutter Developer | ML & Data Enthusiast | C++ Problem Solver</h3>
-
+<p align="center">
+  <img src="https://github.com/Anshag45/Anshag45/blob/main/assets/banner.gif" width="800"/>
+</p>
 <p align="center">
   <a href="https://holopin.io/@anshag45">
     <img src="https://holopin.me/anshag45" alt="Holopin Badges" />
