@@ -15,12 +15,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
-'''
+'''text
 💻 Full-Stack Developer | ML Engineer | Problem Solver
 🎓 CS @ VIT Bhopal (CGPA: 8.96/10) 
 🏆 250+ LeetCode 
 📱 Flutter Expert | AI/ML Enthusiast
-'''
+
 ---
 
 ## 🛠 **Tech Stack**
