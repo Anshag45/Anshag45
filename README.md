@@ -15,10 +15,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
-'''text
+```text
 💻 Full-Stack Developer | ML Engineer | Problem Solver
 🎓 CS @ VIT Bhopal (CGPA: 8.96/10) 
-🏆 250+ LeetCode 
+🏆 250+ LeetCode | Top 24% Contest Rating
 📱 Flutter Expert | AI/ML Enthusiast
 
 ---
