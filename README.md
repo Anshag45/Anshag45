@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="400"/>
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="800"/>
   </a>
 </p>
 
@@ -43,8 +43,7 @@
 | Best Rank        | 3,045 (Top 10%)         |
 | Streak           | 7 Days 🔥               |
 
-```text
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️ 100%
+
 LeetCode Stats
 
 </div>
