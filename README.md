@@ -21,7 +21,7 @@
 📱 **Flutter Expert** | **AI/ML Enthusiast**
 
 
-## 🛠 **Tech Stack**
+## 🛠 <img src = "https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width ="30">**Tech Stack**
 
 ### 🗣️ **Programming Languages**
 <p>
