@@ -119,9 +119,7 @@
 - 🚀 **3 Hackathon Wins** in Flutter/ML competitions  
 
 ---
-
-## 📊 **GitHub Stats**
-<div align="center">
+## 📊 **GitHub Stats** <img src="https://media.giphy.com/media/iY8CRBdQXODjSCERIr/giphy.gif" width="30" />
   
 ![Ansh's Stats](https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
