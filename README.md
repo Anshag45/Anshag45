@@ -17,7 +17,7 @@
 
 💻 **Full-Stack Developer** | **ML Engineer** | **Problem Solver**  
 🎓 Computer Science @ VIT Bhopal (**CGPA: 8.96/10**)  
-🏆 **250+ LeetCode**
+🏆 **300+ LeetCode**
 📱 **Flutter Expert** | **AI/ML Enthusiast**
 
 
