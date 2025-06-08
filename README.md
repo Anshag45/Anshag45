@@ -113,7 +113,7 @@
 ---
 
 ## <img src = "https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = "30"> **Achievements**
-- 🏆 **250+ DSA Problems** solved on [LeetCode](https://leetcode.com/u/agarwalansh651/)  
+- 🏆 **300+ DSA Problems** solved on [LeetCode](https://leetcode.com/u/agarwalansh651/)  
 - ⭐ **5-Star Coder** in C++ on HackerRank  
 - 🥈 **NPTEL Silver Medalist** in Cloud Computing (Top 2%)  
 - 🚀 **3 Hackathon Wins** in Flutter/ML competitions  
