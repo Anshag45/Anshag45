@@ -15,10 +15,6 @@
 </p>
 
 
-💻 **Full-Stack Developer** | **ML Engineer** | **Problem Solver**  
-🎓 Computer Science @ VIT Bhopal (**CGPA: 8.96/10**)  
-🏆 **300+ LeetCode**
-📱 **Flutter Expert** | **AI/ML Enthusiast**
 
 
 ##  <img src = "https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width ="40"> **Tech Stack**
@@ -70,52 +66,14 @@
 
 ---
 
-## 🏆 **Projects**
-
-### 1. 🏠 **Smart Home Animated App**  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/Smart-Home-Animated-App-using-Flutter)  
-✨ Flutter-based IoT control app with advanced animations  
-🔧 **Tech**: `Flutter` `Dart` `Material Design` `AnimatedContainer` `Hero Animations`  
-📌 **Features**:  
-- Real-time device control simulation  
-- Smooth UI transitions with AnimatedSwitcher  
-- Modular architecture for scalability  
-
-### 2. 💧 **Aqua Pulse – Water Quality Dashboard**  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/Aqua-Pulse)  
-📊 ML-powered water quality tracking system  
-🔧 **Tech**: `Python` `ARIMA` `Tableau` `Firebase` `REST APIs`  
-📌 **Features**:  
-- Tracks 44+ stations across 28 states  
-- ARIMA forecasting for 5-year trends  
-- Interactive Tableau visualizations  
-
-### 3. 🧠 **GENAI MCQ Generator**  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshag45/GENAI_Project-Advanced-MCQ-Generator)  
-🤖 Automated quiz generation from web content  
-🔧 **Tech**: `OpenAI GPT` `Flask` `MongoDB` `SpaCy NLP`  
-📌 **Features**:  
-- Web scraping with BeautifulSoup  
-- Customizable quiz parameters  
-- Hint/explanation support  
-
----
-
-## 📜 **Certifications**
-
-| **Certification** | **Issuer** | **Date** | **Badge** |
-|-------------------|------------|----------|-----------|
-| GEN AI Using IBM Watsonx | IBM | Apr 2025 | ![IBM](https://img.shields.io/badge/-IBM-052FAD?style=flat-square) |
-| Full Stack Developer (MERN) | SmartBridge & MongoDB | - | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square) |
-| The Bits and Bytes of Networking | Google | - | ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square) |
-| Cloud Computing (Top 2%) | NPTEL | - | ![NPTEL](https://img.shields.io/badge/-NPTEL-2B6790?style=flat-square) |
-
----
 
 ## <img src = "https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = "30"> **Achievements**
-- 🏆 **300+ DSA Problems** solved on [LeetCode](https://leetcode.com/u/agarwalansh651/)  
+- 🏆 **400+ DSA Problems** solved on [LeetCode](https://leetcode.com/u/agarwalansh651/)  
 - ⭐ **5-Star Coder** in C++ on HackerRank  
-- 🥈 **NPTEL Silver Medalist** in Cloud Computing (Top 2%)  
+- 🥈 **NPTEL Silver Medalist** in Cloud Computing (Top 2%)
+- 💻 **Full-Stack Developer** | **ML Engineer** | **Problem Solver**  
+- 🎓 Computer Science @ VIT Bhopal (**CGPA: 8.96/10**)  
+- 📱 **Flutter Expert** | **AI/ML Enthusiast**
 
 ---
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="40"> **GitHub Stats** 
