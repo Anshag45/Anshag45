@@ -150,4 +150,5 @@
   <img src="https://komarev.com/ghpvc/?username=Anshag45&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Anshag45/Anshag45/output/snake.svg)
+
+![Contribution Snake](https://raw.githubusercontent.com/Anshag45/Anshag45/output/snake.svg)
