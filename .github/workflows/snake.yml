@@ -1,0 +1,38 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Snake
+        uses: platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/snake.svg
+          gif_out_path: dist/snake.gif
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-artifact
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: output
