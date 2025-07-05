@@ -150,7 +150,10 @@
   <img src="https://komarev.com/ghpvc/?username=Anshag45&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-
-![Snake animation](https://github.com/Anshag45/Anshag45/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshag45/Anshag45/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshag45/Anshag45/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Anshag45/Anshag45/output/github-contribution-grid-snake.svg">
+</picture>
 
 
