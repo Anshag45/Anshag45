@@ -109,4 +109,4 @@
 </p>
 
 
-![Contribution Snake](https://raw.githubusercontent.com/Anshag45/Anshag45/output/snake.svg)
+![snake gif](https://github.com/Anshag45/Anshag45/blob/output/github-contribution-grid-snake.gif)
