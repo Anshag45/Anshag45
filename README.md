@@ -105,11 +105,10 @@
   </a>
 </p>
 
-<p align = "center">
+
   ![snake gif](https://github.com/Anshag45/Anshag45/blob/output/github-snake-dark.svg)
-  
-</p>
-  
+<!-- </p>
+   -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anshag45&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
