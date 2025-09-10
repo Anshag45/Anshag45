@@ -105,7 +105,7 @@
   </a>
 </p>
 
-<p align = "center>
+<p align = "center">
   ![snake gif](https://github.com/Anshag45/Anshag45/blob/output/github-snake-dark.svg)
   
 </p>
