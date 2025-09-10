@@ -69,12 +69,11 @@
 
 ## <img src = "https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = "30"> **Achievements**
 - 🏆 **495+ DSA Problems** solved on [LeetCode](https://leetcode.com/u/agarwalansh651/)  
-- ⭐ **Semi-Finalist, Flipkart GRiD 7.0: Advanced to Round 3, led a 3-member team among 160k+ participants.
+- ⭐ **Semi-Finalist, Flipkart GRiD 7.0: ** Advanced to Round 3, led a 3-member team among 160k+ participants.
 - 🥈 **NPTEL Silver Medalist** in Cloud Computing (Top 2%) and Walmart Global Tech Sparkathon: Contributed to an open innovation challenge focused on developing
  technological solutions for global retail challenges.
-- 💻 **Full-Stack Developer** | **ML Engineer** | **Problem Solver**  
 - 🎓 Computer Science @ VIT Bhopal (**CGPA: 8.96/10**)  
-- 📱 **Flutter Expert** | **AI/ML Enthusiast**
+- 📱 **Flutter Expert** | **AI/ML Enthusiast** | 💻 **Full-Stack Developer** | **Problem Solver**  
 
 ---
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="40"> **GitHub Stats** 
