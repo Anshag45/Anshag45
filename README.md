@@ -88,16 +88,6 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-- **🤖 ML Classification Models** - Comprehensive machine learning implementations
-- **📱 Flutter E-Commerce App** - Full-featured mobile shopping application
-- **🌐 Next.js Portfolio Website** - Modern responsive portfolio built with Next.js
-- **⚡ DSA Problem Solutions** - 495+ coding problems with optimized solutions
 
 ---
 
@@ -131,5 +121,3 @@ Here are some of my notable projects:
 **⚡ Fun Fact:** I believe the best code is written with a cup of coffee ☕ and good music 🎧!
 
 ---
-
-*This README is updated automatically with my latest stats and achievements.*
