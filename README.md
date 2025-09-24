@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="650"/>
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="450"/>
   </a>
 </p>
 
@@ -89,8 +89,7 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 
 ### 🏆 LeetCode Performance
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" /> -->
-  <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto&ext=contest" alt="LeetCode Contest" />
+  <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" />
 </div>
 
 ### 🎯 LeetCode Badges
