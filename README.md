@@ -96,9 +96,9 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 ### 🎯 LeetCode Badges
 <!-- Update these badge URLs with your actual LeetCode badge image URLs -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="120" src="https://leetcode.com/medal/?showImg=0&id=8076229&isLevel=false" alt="30 Days Challenge" />
-  <img height="120" src="https://assets.leetcode.com/static_assets/others/100problems_1643129141.png" alt="100 Problems Solved" />
-  <img height="120" src="https://assets.leetcode.com/static_assets/others/2023_badge_1643129141.png" alt="2023 Badge" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="200 Problems Solved" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Challenge" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="SQL Badge" />
 </div>
 
 </div>
