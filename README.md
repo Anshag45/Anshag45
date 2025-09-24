@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="550"/>
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="600"/>
   </a>
 </p>
 
