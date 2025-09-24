@@ -89,7 +89,7 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 
 ### 🏆 LeetCode Performance
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" />
+  <!-- <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" /> -->
   <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto&ext=contest" alt="LeetCode Contest" />
 </div>
 
@@ -98,6 +98,7 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="120" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="200 Problems Solved" />
   <img height="120" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Challenge" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days" />
   <img height="120" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="SQL Badge" />
 </div>
 
