@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=500&lines=%F0%9F%A4%97%20Hey%20World!%20I'm%20Ansh%20Agarwal;%F0%9F%92%BB%20Full-Stack%20%7C%20ML%20%7C%20Flutter;%F0%9F%8E%89%20Turning%20coffee%20into%20code..." alt="Typing Animation" />
 </h1>
@@ -76,18 +74,34 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=radical&hide_border=true)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto)
-
+### 📈 GitHub Activity
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshag45&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 LeetCode Performance
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" />
+  <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto&ext=contest" alt="LeetCode Contest" />
+</div>
+
+### 🎯 LeetCode Badges
+<!-- Update these badge URLs with your actual LeetCode badge image URLs -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/30days_1643129141.png" alt="30 Days Challenge" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/100problems_1643129141.png" alt="100 Problems Solved" />
+  <img height="120" src="https://assets.leetcode.com/static_assets/others/2023_badge_1643129141.png" alt="2023 Badge" />
+</div>
+
+</div>
 
 ---
 
@@ -119,5 +133,3 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 ---
 
 **⚡ Fun Fact:** I believe the best code is written with a cup of coffee ☕ and good music 🎧!
-
----
