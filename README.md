@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
-    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="450"/>
+    <img src="https://holopin.me/anshag45" alt="Holopin Badges" width="550"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 I'm a passionate Computer Science student at VIT Bhopal with a strong foundation in full-stack development, machine learning, and mobile app development. I love transforming complex problems into elegant solutions through code.
