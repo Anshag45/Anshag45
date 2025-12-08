@@ -1,6 +1,4 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • 3rd Year CSE @ VIT Bhopal</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;React+%7C+Next.js+%7C+TS;490%2B+LeetCode+Problems;Always+learning+new+things!&center=true&width=550&height=50">
@@ -9,34 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anshag45&style=for-the-badge&color=brightgreen">
 </p>
-
----
-
-# 🚀 Final Skills Summary
-
-### **💻 Languages**
-- JavaScript (ES6+), TypeScript, Python, C++, Dart  
-
-### **🎨 Frontend**
-- React.js, Next.js, HTML5, CSS3, Tailwind CSS  
-- Responsive Design, Flexbox/Grid  
-- ShadCN UI  
-
-### **🛠 Backend & Tools**
-- Node.js, Express.js, NestJS  
-- REST APIs, Firebase  
-- MongoDB, MySQL  
-- Git/GitHub  
-- AWS (EC2/S3, RDS)  
-- Chrome DevTools  
-
-### **🤖 AI/ML & Visualization**
-- TensorFlow, Scikit-learn, PyTorch, SpaCy  
-- Numpy, Pandas  
-- Plotly  
-- Tableau, PowerBI  
-
----
 
 # 🛠 Tech Stack (Icons)
 
