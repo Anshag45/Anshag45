@@ -70,7 +70,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 <!-- Temporarily disabled until the SVG exists
 # 🐍 Animated Snake Contributions
@@ -88,11 +87,30 @@
 
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://ansh-agarwal-portfolio-v2.vercel.app/"><img src="https://skillicons.dev/icons?i=web" /></a>
-  <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Anshag45"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://leetcode.com/u/agarwalansh651/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
-  <a href="mailto:agarwalansh651@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <!-- Portfolio -->
+  <a href="https://ansh-agarwal-portfolio-v2.vercel.app/">
+    <img src="https://img.icons8.com/?size=100&id=59854&format=png&color=ffffff" width="48px"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Anshag45">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/agarwalansh651/">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypPZk6C&format=png&color=ffffff" width="48px"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:agarwalansh651@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 
