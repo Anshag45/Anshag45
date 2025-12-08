@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=700&color=20C20E&center=true&vCenter=true&width=600&lines=🤗+Hey+World!+I'm+Ansh+Agarwal;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🎯+Turning+coffee+into+clean+code!+" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=500&lines=%F0%9F%A4%97%20Hey%20World!%20I'm%20Ansh%20Agarwal;%F0%9F%92%BB%20Full-Stack%20%7C%20ML%20%7C%20Flutter;%F0%9F%8E%89%20Turning%20coffee%20into%20code..." alt="Typing Animation" /> </h1>
 
 <p align="center">
   <a href="https://holopin.io/@anshag45">
