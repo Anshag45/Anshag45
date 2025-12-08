@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=750&height=90">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=850&height=120">
 </p>
 
 <p align="center">
