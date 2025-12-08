@@ -82,21 +82,22 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 
 <div align="center">
 
-### 📈 GitHub Activity
+### 📈 GitHub Activity  
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Streak  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshag45&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-### 🏆 LeetCode Performance
+### 🏆 LeetCode Performance  
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" />
 </div>
 
-### 🎯 LeetCode Badges
+### 🎯 LeetCode Badges  
+<!-- Update these badge URLs with your actual LeetCode badge image URLs -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="120" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="200 Problems Solved" />
   <img height="120" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Challenge" />
@@ -105,6 +106,7 @@ I'm a passionate Computer Science student at VIT Bhopal with a strong foundation
 </div>
 
 </div>
+
 
 ---
 
