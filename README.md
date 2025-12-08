@@ -73,12 +73,11 @@
 
 ---
 
-<!-- Temporarily disabled until the SVG exists
 # 🧊 3D Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anshag45/Anshag45/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
--->
+
 
 
 ---
