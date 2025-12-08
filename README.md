@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Ansh+Agarwal;Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;“Code+is+art+written+with+logic.”;&center=true&width=200&height=90">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Ansh+Agarwal;Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;“Code+is+art+written+with+logic.”;&center=true&width=450&height=100">
 </p>
 
 <p align="center">
