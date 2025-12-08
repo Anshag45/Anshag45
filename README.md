@@ -1,12 +1,13 @@
-<!-- HEADER -->
-
+<!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;React+%7C+Next.js+%7C+TS;490%2B+LeetCode+Problems;Always+learning+new+things!&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=750&height=90">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anshag45&style=for-the-badge&color=brightgreen">
 </p>
+
+---
 
 # 🛠 Tech Stack (Icons)
 
@@ -35,21 +36,21 @@
 # 🧩 LeetCode Stats & Performance
 
 ### 🔗 **Profile**
-https://leetcode.com/ansh_agarwal45/
+https://leetcode.com/u/agarwalansh651/
 
 ### 🪪 **LeetCode Badges**
-<p>
-  <img src="https://cp-logo.vercel.app/leetcode/ansh_agarwal45" />
+<p align="center">
+  <img src="https://cp-logo.vercel.app/leetcode/agarwalansh651" />
 </p>
 
 ### 📊 **LeetCode Heatmap Card**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ansh_agarwal45?theme=dark&font=Consolas&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
 </p>
 
 ### 🏆 **Contest Rating + Charts**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ansh_agarwal45?theme=dark&font=Consolas&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=contest" />
 </p>
 
 ---
@@ -65,7 +66,7 @@ https://leetcode.com/ansh_agarwal45/
 
 ### ⚡ **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔥 **Streak Stats**
@@ -75,7 +76,7 @@ https://leetcode.com/ansh_agarwal45/
 
 ### 📈 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
