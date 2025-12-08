@@ -35,14 +35,6 @@
 
 # 🧩 LeetCode Stats & Performance
 
-### 🔗 **Profile**
-https://leetcode.com/u/agarwalansh651/
-
-### 🪪 **LeetCode Badges**
-<p align="center">
-  <img src="https://cp-logo.vercel.app/leetcode/agarwalansh651" />
-</p>
-
 ### 📊 **LeetCode Heatmap Card**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
