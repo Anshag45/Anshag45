@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=900&height=120">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Ansh+Agarwal;Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;“Code+is+art+written+with+logic.”;&center=true&width=950&height=120">
 </p>
 
 <p align="center">
@@ -8,9 +8,6 @@
 </p>
 
 ---
-
-
-
 # 🧊 3D Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anshag45/Anshag45/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
@@ -74,20 +71,18 @@
 </p>
 
 ---
-# 🧱 GitHub Metrics (Auto Updating)
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
 
----
-
-
----
 <!-- Temporarily disabled until the SVG exists
 # 🐍 Animated Snake Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+# 🧱 GitHub Metrics (Auto Updating)
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
 -->
 ---
 
