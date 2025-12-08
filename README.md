@@ -9,6 +9,14 @@
 
 ---
 
+
+
+# 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshag45/Anshag45/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+</p>
+
+---
 # 🛠 Tech Stack (Icons)
 
 ### 🚀 **Frontend**
@@ -73,20 +81,14 @@
 
 ---
 
-# 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anshag45/Anshag45/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-</p>
-
-
 
 ---
-
+<!-- Temporarily disabled until the SVG exists
 # 🐍 Animated Snake Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
+-->
 ---
 
 # 🌐 Connect With Me
