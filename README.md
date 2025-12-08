@@ -78,24 +78,7 @@ I'm a passionate Computer Science student at **VIT Bhopal**, specializing in **F
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub & LeetCode Stats
-
-<div align="center">
-
-### 📈 GitHub Activity  
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshag45&theme=radical&hide_border=true" />
-
-### 🏆 LeetCode Profile
-<img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" />
-
-</div>
+##📊 GitHub & LeetCode Stats <div align="center"> ### 📈 GitHub Activity <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshag45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div> ### 🔥 Contribution Streak <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshag45&theme=radical&hide_border=true" alt="GitHub Streak" /> ### 🏆 LeetCode Performance <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img height="150" src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&font=Roboto" alt="LeetCode Stats" /> </div> ### 🎯 LeetCode Badges <!-- Update these badge URLs with your actual LeetCode badge image URLs --> <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img height="120" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="200 Problems Solved" /> <img height="120" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Challenge" /> <img height="120" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days" /> <img height="120" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="SQL Badge" /> </div> </div>
 
 ---
 
