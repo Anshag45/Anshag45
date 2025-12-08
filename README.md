@@ -39,12 +39,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
 </p>
-
-### 🏆 **LeetCode Contest Rating**
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=contest" />
-</p>
-
 ---
 
 # 🏆 GitHub Trophies
