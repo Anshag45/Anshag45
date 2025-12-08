@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Ansh+Agarwal;Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;“Code+is+art+written+with+logic.”;&center=true&width=950&height=120">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Ansh+Agarwal;Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;“Code+is+art+written+with+logic.”;&center=true&width=1350&height=150">
 </p>
 
 <p align="center">
@@ -88,10 +88,13 @@
 
 # 🌐 Connect With Me
 <p align="center">
+  <a href="https://ansh-agarwal-portfolio-v2.vercel.app/"><img src="https://skillicons.dev/icons?i=web" /></a>
   <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Anshag45"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://leetcode.com/u/agarwalansh651/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
   <a href="mailto:agarwalansh651@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
 
 ---
 
