@@ -14,7 +14,7 @@
 </p>
 
 ---
-# 🛠 Tech Stack (Icons)
+# 🛠 Tech Stack
 
 ### 🚀 **Frontend**
 <p align="center">
@@ -40,7 +40,6 @@
 
 # 🧩 LeetCode Stats & Performance
 
-### 📊 **LeetCode Heatmap**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
 </p>
