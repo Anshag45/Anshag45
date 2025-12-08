@@ -1,6 +1,6 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=1050&height=120">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;4th+Year+CSE+%40+VIT;React+%7C+Next.js+%7C+TypeScript;600%2B+LeetCode+Problems;Always+Learning+New+Things!&center=true&width=900&height=120">
 </p>
 
 <p align="center">
@@ -12,22 +12,22 @@
 # 🛠 Tech Stack (Icons)
 
 ### 🚀 **Frontend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite" />
 </p>
 
 ### ⚡ **Backend & Database**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,postgres,aws" />
 </p>
 
-### 🤖 **AI/ML**
-<p>
+### 🤖 **AI / Machine Learning**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
 ### 🛠 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vercel,netlify" />
 </p>
 
@@ -35,12 +35,12 @@
 
 # 🧩 LeetCode Stats & Performance
 
-### 📊 **LeetCode Heatmap Card**
+### 📊 **LeetCode Heatmap**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
 </p>
 
-### 🏆 **Contest Rating + Charts**
+### 🏆 **LeetCode Contest Rating**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=contest" />
 </p>
@@ -58,17 +58,17 @@
 
 ### ⚡ **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔥 **Streak Stats**
+### 🔥 **GitHub Streak**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshag45&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,9 +80,9 @@
 
 ---
 
-# 🧊 3D Contribution Graph
+# 🧊 3D Contribution Graph (Working, Your Repo)
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/raw/master/profile-night-rainbow.svg" width="700">
+  <img src="https://raw.githubusercontent.com/Anshag45/Anshag45/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Anshag45"><img src="https://skillicons.dev/icons?i=github" /></a>
