@@ -84,7 +84,7 @@
 <p align="center">
   <!-- Portfolio -->
   <a href="https://ansh-agarwal-portfolio-v2.vercel.app/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fportfolio&psig=AOvVaw2UnDWNMwfGGE-HcFkfR7wh&ust=1765573002584000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNino4-2tpEDFQAAAAAdAAAAABAL"width="48px"/>
+    <img src="https://cdn.vectorstock.com/i/1000v/87/95/user-portfolio-profile-avatar-or-person-icon-vector-29008795.jpg"width="48px"/>
   </a>
 
   <!-- LinkedIn -->
