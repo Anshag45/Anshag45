@@ -78,19 +78,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-# 🧱 GitHub Metrics
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
-
 ---
 
 # 🌐 Connect With Me
 <p align="center">
   <!-- Portfolio -->
   <a href="https://ansh-agarwal-portfolio-v2.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=59854&format=png&color=ffffff" width="48px"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fportfolio&psig=AOvVaw2UnDWNMwfGGE-HcFkfR7wh&ust=1765573002584000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNino4-2tpEDFQAAAAAdAAAAABAL"width="48px"/>
   </a>
 
   <!-- LinkedIn -->
