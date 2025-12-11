@@ -50,6 +50,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Anshag45&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
+-->
 ---
 
 # 📊 GitHub Stats & Insights
@@ -65,24 +66,24 @@
   <img src="https://streak-stats.demolab.com?user=Anshag45&theme=tokyonight&hide_border=true" />
 </p>
 
+-->
+
 ### 📈 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Anshag45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
-<!-- Temporarily disabled until the SVG exists
 # 🐍 Animated Snake Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-# 🧱 GitHub Metrics (Auto Updating)
+# 🧱 GitHub Metrics
 <p align="center">
   <img src="./github-metrics.svg" />
 </p>
 
--->
 ---
 
 # 🌐 Connect With Me
