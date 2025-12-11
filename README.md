@@ -80,36 +80,12 @@
 </p>
 ---
 
-# 🌐 Connect With Me
 <p align="center">
-  
-  <!-- Portfolio -->
-  <a href="https://ansh-agarwal-portfolio-v2.vercel.app/">
-    <img src="https://cdn.vectorstock.com/i/1000v/87/95/user-portfolio-profile-avatar-or-person-icon-vector-29008795.jpg"width="48px"/>
-  </a>
-
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Anshag45">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/agarwalansh651/">
-    <img src="https://www.svgrepo.com/show/517366/leetcode.svg" width="48px"/>
-  </a>
-
-
-  <!-- Gmail -->
-  <a href="mailto:agarwalansh651@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://ansh-agarwal-portfolio-v2.vercel.app/"><img src="https://cdn.vectorstock.com/i/1000v/87/95/user-portfolio-profile-avatar-or-person-icon-vector-29008795.jpg" width="48px"/></a> • 
+  <a href="https://www.linkedin.com/in/ansh-agarwal-184356196/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> • 
+  <a href="https://github.com/Anshag45"><img src="https://skillicons.dev/icons?i=github"/></a> • 
+  <a href="https://leetcode.com/u/agarwalansh651/"><img src="https://www.svgrepo.com/show/517366/leetcode.svg" width="48px"/></a> • 
+  <a href="mailto:agarwalansh651@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 
