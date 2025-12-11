@@ -44,6 +44,7 @@
   <img src="https://leetcard.jacoblin.cool/agarwalansh651?theme=dark&ext=heatmap" />
 </p>
 
+<!-- Temporarily disabled until the SVG exists
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anshag45&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -58,6 +59,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Anshag45&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Temporarily disabled until the SVG exists
 ### 🔥 **GitHub Streak**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshag45&theme=tokyonight&hide_border=true" />
