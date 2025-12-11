@@ -78,6 +78,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 <p align="center">
@@ -87,8 +88,5 @@
   <a href="https://leetcode.com/u/agarwalansh651/"><img src="https://www.svgrepo.com/show/517366/leetcode.svg" width="48px"/></a> • 
   <a href="mailto:agarwalansh651@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
-
-
----
 
 <h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
